@@ -4,7 +4,7 @@
 # HUH?! SPEAK UP, SONNY!
       puts "HUH?! SPEAK UP, SONNY"
 # unless you shout it (type in all capitals).
-    if "#{phrase}" = "#{phrase}".upcase
+    if "#{phrase}" == "#{phrase}".upcase
 # If you shout, she can hear you (or at least she thinks so)
         puts "NO, NOT SINCE 1938"
 # and yells back
