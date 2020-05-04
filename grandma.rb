@@ -6,8 +6,8 @@
     puts "HUH?! SPEAK UP SONNY"
 # unless you shout it (type in all capitals).
   elsif speak_to_grandma.uppercase == true
-  
-# If you shout, she can hear you (or at least she thinks so) 
+
+# If you shout, she can hear you (or at least she thinks so)
 
 # and yells back
 
